@@ -7,7 +7,7 @@ export const projects: readonly Project[] = [
     description:
       "A meeting room booking platform designed with a simple, user-friendly workflow.",
     image: "/images/projects/merapat.png",
-    technologies: ["PHP", "MySQL", "Bootstrap"],
+    technologies: ["PHP", "SQL", "Bootstrap"],
     category: "Web Development",
     githubUrl: "https://github.com/Miuki08/merapatv2.0.1",
   },
@@ -17,7 +17,7 @@ export const projects: readonly Project[] = [
     description:
       "An Android application that makes it easy to browse and order a variety of flowers.",
     image: "/images/projects/appflower.png",
-    technologies: ["Java", "PHP", "MySQL"],
+    technologies: ["Java", "PHP", "SQL"],
     category: "Mobile Development",
     githubUrl: "https://github.com/Miuki08/android-jaya",
   },
@@ -27,7 +27,7 @@ export const projects: readonly Project[] = [
     description:
       "A centralized platform for managing inbound information, news distribution, and reputation monitoring.",
     image: "/images/projects/oneboxpr.png",
-    technologies: ["PHP", "Phalcon", "MySQL", "Bootstrap"],
+    technologies: ["PHP", "Phalcon", "SQL", "Bootstrap"],
     category: "Web Development",
   },
   {
